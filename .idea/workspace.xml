@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="686b89c7-b52c-448c-800c-880ea11fcc22" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZhmaPXh03wrPp1yYf4DMPjDgCw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="ts.external.directory.path" value="C:\Users\daiqiang\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\193.6911.28\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\daiqiang\WebstormProjects\universalgui" />
+      <recent name="C:\Users\daiqiang\WebstormProjects\universalgui\public" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.electron-start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="electron-start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="electron-start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Debug Application" />
+      <item itemvalue="npm.npm start" />
+      <item itemvalue="npm.electron-start" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="686b89c7-b52c-448c-800c-880ea11fcc22" name="Default Changelist" comment="" />
+      <created>1585299762564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585299762564</updated>
+      <workItem from="1585299764653" duration="4499000" />
+      <workItem from="1585305059122" duration="23806000" />
+      <workItem from="1585385367909" duration="26798000" />
+      <workItem from="1585457604174" duration="6043000" />
+      <workItem from="1585463781951" duration="280000" />
+      <workItem from="1585464155437" duration="3402000" />
+      <workItem from="1585441629799" duration="603000" />
+      <workItem from="1585443092484" duration="481000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="409" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585306821094">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="409" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032/-1680.30.1680.1050@0.0.1920.1032" timestamp="1585306821094" />
+    <state x="686" y="209" key="FileChooserDialogImpl" timestamp="1585324265474">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="686" y="209" key="FileChooserDialogImpl/0.0.1920.1032/-1680.30.1680.1050@0.0.1920.1032" timestamp="1585324265474" />
+    <state width="1892" height="172" key="GridCell.Tab.0.bottom" timestamp="1585471039905">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="172" key="GridCell.Tab.0.bottom/0.0.1920.1032/-1680.30.1680.1050@0.0.1920.1032" timestamp="1585471039905" />
+    <state width="1892" height="172" key="GridCell.Tab.0.center" timestamp="1585471039905">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="172" key="GridCell.Tab.0.center/0.0.1920.1032/-1680.30.1680.1050@0.0.1920.1032" timestamp="1585471039905" />
+    <state width="1892" height="172" key="GridCell.Tab.0.left" timestamp="1585471039905">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="172" key="GridCell.Tab.0.left/0.0.1920.1032/-1680.30.1680.1050@0.0.1920.1032" timestamp="1585471039905" />
+    <state width="1892" height="172" key="GridCell.Tab.0.right" timestamp="1585471039905">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="172" key="GridCell.Tab.0.right/0.0.1920.1032/-1680.30.1680.1050@0.0.1920.1032" timestamp="1585471039905" />
+    <state x="336" y="56" key="SettingsEditor" timestamp="1585415579433">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="336" y="56" key="SettingsEditor/0.0.1920.1032/-1680.30.1680.1050@0.0.1920.1032" timestamp="1585415579433" />
+  </component>
+</project>

@@ -1,0 +1,68 @@
+.App{
+    background-color:rgb(240,240,240);
+    height: 100vh;
+}
+.OriginPicFramework{
+    margin-top: 5vh;
+    text-align: center;
+}
+.OriginPic{
+    box-shadow: 0px 1px 5px 0px gray;
+}
+.OriginPic:hover{
+    cursor: zoom-in;
+    box-shadow: 0px 3px 5px 2px gray;
+}
+.SignedPicFramework{
+    margin-top: 2vh;
+    text-align: center;
+}
+.SignedPic{
+    box-shadow: 0px 1px 5px 0px gray;
+}
+.SignedPic:hover{
+    cursor: zoom-in;
+    box-shadow: 0px 3px 5px 2px gray;
+}
+.image{
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 30vh;
+}
+.ControlButtons{
+    margin-top: 20vh;
+    text-align: center;
+}
+.oneButton{
+    display: inline-block;
+    margin: 5px;
+    border-radius: 200px;
+}
+.BackendMessage{
+    margin-top: 20vh;
+}
+.messageBlock{
+    font-size: 20px;
+    max-height: 40vh;
+    min-height: 40vh;
+    word-wrap:break-word;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    border: dotted 2px lightgrey;
+}
+.messageBlock:hover{
+    box-shadow:0px 0px 5px gray;
+    border: solid 2px cornflowerblue;
+    color: cornflowerblue;
+    transition-property:all;
+    transition-duration:1s;
+}
+.zoomedImage{
+    width: auto;
+    height: auto;
+    max-width: 100%;
+}
+.zoomedImage:hover{
+    cursor: zoom-out;
+}
